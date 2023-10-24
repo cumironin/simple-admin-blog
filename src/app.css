@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Customizing Tooltip Design 
+  TailwindCSS will always include this! */
+.tippy-box[data-theme~='voyager'] {
+	background-color: #ededed;
+	color: red;
+	border: 1px solid #ededed;
+	border-radius: 0;
+}

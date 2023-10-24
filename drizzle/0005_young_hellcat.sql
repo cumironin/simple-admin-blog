@@ -1,0 +1,1 @@
+ALTER TABLE "role_menu" ALTER COLUMN "id" SET DEFAULT USING 'id':uuid;

@@ -1,0 +1,1 @@
+ALTER TABLE "sub_menu" ADD COLUMN "numsort" integer;

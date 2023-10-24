@@ -1,0 +1,1 @@
+ALTER TABLE "role_menu" ADD COLUMN "id" varchar(255) NOT NULL;
